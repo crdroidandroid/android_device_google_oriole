@@ -1,0 +1,27 @@
+[
+  {
+    "repository": "crdroidandroid/android_device_google_raviole",
+    "target_path": "device/google/raviole",
+    "branch": "lineage-21"
+  },
+  {
+    "repository": "crdroidandroid/android_device_google_raviole",
+    "target_path": "device/google/raviole"
+  },
+  {
+    "repository": "LineageOS/android_device_google_gs101",
+    "target_path": "device/google/gs101"
+  },
+  {
+    "repository": "Lost-Entrepreneur439/android_device_google_raviole-kernel",
+    "target_path": "device/google/raviole-kernel"
+  },
+  {
+    "repository": "LineageOS/android_device_google_gs-common",
+    "target_path": "device/google/gs-common"
+  },
+  {
+    "repository": "TheMuppets/proprietary_vendor_google_oriole",
+    "target_path": "vendor/google/oriole"
+  }
+]
