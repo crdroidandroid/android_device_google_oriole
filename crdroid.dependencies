@@ -1,10 +1,5 @@
 [
     {
-        "repository": "crdroidandroid/android_device_google_oriole",
-        "target_path": "device/google/oriole",
-        "branch": "16.0"
-    },
-    {
             "repository": "crdroidandroid/android_device_google_raviole",
         "target_path": "device/google/raviole",
         "branch": "16.0"
