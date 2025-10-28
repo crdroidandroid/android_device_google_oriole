@@ -10,8 +10,8 @@
         "branch": "16.0"
     },
     {
-            "repository": "crdroidandroid/android_device_google_raviole-kernels_6.1",
-        "target_path": "device/google/raviole-kernels/6.1",
+            "repository": "crdroidandroid/android_device_google_raviole-kernels",
+        "target_path": "device/google/raviole-kernels/",
         "branch": "16.0"
     },
     {
